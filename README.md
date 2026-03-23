@@ -1,4 +1,16 @@
 # schedule-manager-app
-![image](https://github.com/portfolio-since2025/schedule-manager-app/blob/main/97C70843-E85A-437D-BCD1-ED7DF9D9C087.png)
+
 ## 概要
 Googleスプレッドシートに入力した内容をもとに、カレンダーと連携する予定管理ツールです。
+
+## 動作イメージ
+- スプレッドシートに予定を入力
+- 重複チェックを実施
+- 問題なければカレンダーへ自動登録
+- 削除・日付変更時もカレンダーに反映
+
+## スプレッドシート
+![sheet](97C70843-E85A-437D-BCD1-ED7DF9D9C087.png)
+
+## カレンダー連携
+![calendar](ここにカレンダー画像のファイル名)
